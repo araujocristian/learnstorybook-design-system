@@ -7,9 +7,17 @@ export default {
   component: Avatar,
 };
 
+export const Template = (args) => <Avatar {...args} />;
+Template.args = {
+  loading: false,
+  size: "tiny",
+  username: "Dominic Nguyen",
+  src: "https://avatars2.githubusercontent.com/u/263385",
+};
+
 export const Standard = (args) => <Avatar {...args} />;
 Standard.args = {
-  size: "large",
+  size: ["large"],
   username: "Tom Coleman",
   src: "https://avatars2.githubusercontent.com/u/132554",
 };
@@ -37,16 +45,16 @@ export const Initials = (args) => (
 );
 
 export const Loading = (args) => (
-    <div>
-      <Avatar {...args} size="large" />
-      <Avatar {...args} size="medium" />
-      <Avatar {...args} size="small" />
-      <Avatar {...args} size="tiny" />
-    </div>
-  );
-  Loading.args = {
-    loading: true,
-  };
+  <div>
+    <Avatar {...args} size="large" />
+    <Avatar {...args} size="medium" />
+    <Avatar {...args} size="small" />
+    <Avatar {...args} size="tiny" />
+  </div>
+);
+Loading.args = {
+  loading: true,
+};
 
 export const Large = (args) => (
   <div>
