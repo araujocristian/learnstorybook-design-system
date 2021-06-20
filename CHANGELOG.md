@@ -1,3 +1,16 @@
+# v0.1.3 (Sun Jun 20 2021)
+
+#### ⚠️ Pushed to `master`
+
+- Merge branch 'master' of github.com:araujocristian/learnstorybook-design-system ([@araujocristian](https://github.com/araujocristian))
+- fix: yarn.lock ([@araujocristian](https://github.com/araujocristian))
+
+#### Authors: 1
+
+- Cristian Araujo de Jesus ([@araujocristian](https://github.com/araujocristian))
+
+---
+
 # v0.1.2 (Sun Jun 20 2021)
 
 #### ⚠️ Pushed to `master`
