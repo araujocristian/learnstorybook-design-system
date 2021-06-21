@@ -1,3 +1,15 @@
+# v0.1.4 (Mon Jun 21 2021)
+
+#### ⚠️ Pushed to `master`
+
+- Create .env ([@araujocristian](https://github.com/araujocristian))
+
+#### Authors: 1
+
+- Cristian Araujo de Jesus ([@araujocristian](https://github.com/araujocristian))
+
+---
+
 # v0.1.3 (Sun Jun 20 2021)
 
 #### ⚠️ Pushed to `master`
