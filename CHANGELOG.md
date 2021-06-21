@@ -1,3 +1,15 @@
+# v0.2.0 (Mon Jun 21 2021)
+
+#### 🚀 Enhancement
+
+- Create avatar list component [#2](https://github.com/araujocristian/learnstorybook-design-system/pull/2) ([@araujocristian](https://github.com/araujocristian))
+
+#### Authors: 1
+
+- Cristian Araujo de Jesus ([@araujocristian](https://github.com/araujocristian))
+
+---
+
 # v0.1.4 (Mon Jun 21 2021)
 
 #### ⚠️ Pushed to `master`
